@@ -1,0 +1,9 @@
+1: j'effectue une requete sur les commentaire avec cette url https://jsonplaceholder.typicode.com/comments et avec la methode get
+2: methode post avec l'url https://jsonplaceholder.typicode.com/todos ensuite je rentre les parametre dans body, x-www-form-urlencoded et je send
+3: methode patch avec l'url https://jsonplaceholder.typicode.com/posts/1 ensuite je vaisdans body , raw et je met ce code json :
+{
+  "title": "Nouveau Titre",
+  "body": "Nouveau contenu modifié"
+}
+4:methode get avec l'url https://jsonplaceholder.typicode.com/posts/1/comments 
+5:methode get avec l'url https://jsonplaceholder.typicode.com/albums/2/photos
